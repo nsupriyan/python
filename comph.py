@@ -13,3 +13,8 @@
 # str9=["supriya","maggie","deepu"]
 # op3=[a[::-1] for a in str9]
 # print(op3)
+
+
+
+# primes = [x for x in range(2, 100) if all(x % i != 0 for i in range(2, x))]
+# print(primes)
