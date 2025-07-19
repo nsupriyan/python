@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Nearst prime number
 # 
 n=8
@@ -31,6 +32,8 @@ else:
             print(b)
             break
 
+=======
+>>>>>>> 64d2138386ddbfc56de4eb59d962ceb687ef6527
 # # Reverse a Number
 # # ➤ Input: 1234 → Output: 4321
 # n=1234
