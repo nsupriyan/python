@@ -19,11 +19,11 @@
 # primes = [x for x in range(2, 100) if all(x % i != 0 for i in range(2, x))]
 # print(primes)
 
-import math
+# import math
 
-def is_perfect(n):
-    return n == sum(i for i in range(1, n) if n % i == 0)
+# def is_perfect(n):
+#     return n == sum(i for i in range(1, n) if n % i == 0)
 
-perfect_factorials = [math.factorial(i) for i in range(1, 11) if is_perfect(math.factorial(i))]
+# perfect_factorials = [math.factorial(i) for i in range(1, 11) if is_perfect(math.factorial(i))]
 
-print(perfect_factorials)
+# print(perfect_factorials)

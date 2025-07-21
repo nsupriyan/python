@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Nearst prime number
 # 
 n=8

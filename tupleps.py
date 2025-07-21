@@ -44,8 +44,8 @@ a=(1,2,3,4,5,4,4)
 #     s=i
 # print(s)
 
-merged=()
-for i in range(0,21,2):
-    merged+=i,
-print(merged)
+# merged=()
+# for i in range(0,21,2):
+#     merged+=i,
+# print(merged)
 

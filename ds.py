@@ -466,12 +466,12 @@
 # print(arr,count)
 
 
-arr=[7]
-for i in range(1, len(arr)):
-    for j in range(i, 0, -1):         # go backward from i to 1
-        if arr[j] <arr[j-1]:       # if current < previous
-            arr[j], arr[j] = arr[j - 1], arr[j] 
-print(arr)
+# arr=[7]
+# for i in range(1, len(arr)):
+#     for j in range(i, 0, -1):         # go backward from i to 1
+#         if arr[j] <arr[j-1]:       # if current < previous
+#             arr[j], arr[j] = arr[j - 1], arr[j] 
+# print(arr)
 
 
 
